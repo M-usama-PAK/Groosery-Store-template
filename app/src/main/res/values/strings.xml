@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">GrooceryStore</string>
+    <string name="tvToolbar_vItem"><![CDATA[Fruits & Vegitable]]></string>
+    <string name="tvProductTitle">Apple</string>
+    <string name="tvProductAmount">$10</string>
+    <string name="btnAdd">Add</string>
+    <string name="tvCount">0</string>
+    <string name="tvIteamTitle">Guava</string>
+    <string name="tvIteamAmount">$ 15  Kg</string>
+    <string name="tv_title_details">Detials</string>
+    <string name="tvToolbar">My Cart (4)</string>
+    <string name="tv_pin_code">PinCode</string>
+    <string name="tv_detail_des">Description is the pattern of narrative development that aims to make vivid a place, object, character, or group. Description is one of four rhetorical modes, along with exposition, argumentation, and narration. In practice it would be difficult to write literature that drew on just one of the four basic modes</string>
+    <string name="btnCheckout">Checkout</string>
+    <string name="tvProductWeight">1 kg</string>
+    <string name="tv_checkout">CheckOut</string>
+    <string name="tv_delivery">Delivery</string>
+    <string name="tv_payment">Payment</string>
+    <string name="tv_delivery_address">Delivery Address</string>
+    <string name="btnUpdateAddress">Update Address</string>
+    <string name="tv_my_cat_title">My Cart (4)</string>
+    <string name="etSearch">Search products</string>
+
+
+    //signup screen
+    <string name="et_username">Enter Username</string>
+    <string name="et_login_password_field">Enter Password</string>
+    <string name="cb_remember_me">Remember Me</string>
+    <string name="btn_login_forget_password">FORGET PASSWORD</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="full_name_tv">Full Name</string>
+    <string name="Sign_user_name">Username</string>
+    <string name="Sign_Email">Email</string>
+    <string name="Sign_phone_call">Phone Number</string>
+    <string name="Sign_user_password">Password</string>
+    <string name="next_signup2nd_screen_btn">Next</string>
+    <string name="signup_login_btn">Login</string>
+    <string name="brn_login_create_account">Create Account</string>
+    <string name="btnProceed">PROCEED TO PAY</string>
+    <string name="r_btn_net_banking">Net Banking</string>
+    <string name="r_btn_wallet_upi">Wallet / UPI</string>
+    <string name="r_btn_credit_debit">Credit / Debit / ATM Card</string>
+    <string name="r_btn_cash">Cash on Delivery</string>
+    <string name="tv_payment_method">Payment Method</string>
+    <string name="tv_login_title">Login</string>
+
+
+
+
+    <string name="tv_discount"><![CDATA[GET EXTRA 5 % OFF* with MONEY bank Simply Save Credit card. T&C]]></string>
+    <string name="tv_total">Total :</string>
+    <string name="tv_price">$655</string>
+    <string name="tv_best_values">Best values</string>
+    <string name="tv_top_sellers">Top sellers</string>
+    <string name="brn_All">ALL</string>
+    <string name="tv_categories">Categories</string>
+    <string name="tv_popular">Popular</string>
+    <string name="tv_whatsnew">Whats\' New</string>
+    <string name="tvToolbar_checkout">CheckOut</string>
+    <string name="tv_total_payment">Total :</string>
+    <string name="tv_price_payment">$655</string>
+    <string name="tv_signup_title_text">Create \ n Account</string>
+    <string name="tv_full_name">Full Name</string>
+    <string name="et_email">Email</string>
+    <string name="et_phone_num_signin">Phone Number</string>
+    <string name="et_password_signin">Password</string>
+    <string name="btn_next_btn_signup">Next</string>
+    <string name="btn_signup_login">Login</string>
+    <string name="tv_checkout_details">CheckOut</string>
+    <string name="tv_hans">Hans Egedesvej 29</string>
+    <string name="tv_pobox">P.O Box 1615</string>
+    <string name="tv_nunnk">3900 Nunnk</string>
+    <string name="tv_green_land">Greenland</string>
+    <string name="tv_order_summary">Order Summary</string>
+    <string name="tzv_total_details">Total :</string>
+    <string name="tv_price_details">$655</string>
+    <string name="tvViewOffers">View Offers</string>
+    <string name="tvOfferTitle">Weekend Offers!</string>
+    <string name="tvOfferDesc">Branded and fresh food</string>
+    <string name="tvQuantity">Qty: 1</string>
+    <string name="tvAmount">$100</string>
+    <string name="tvMinus">-</string>
+    <string name="tvPlus">+</string>
+    <string name="tv_off">off</string>
+
+</resources>
